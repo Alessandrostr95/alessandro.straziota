@@ -1,6 +1,7 @@
 ---
 title: Alessandro Straziota - About Me
 author: Alessandro Straziota
+date: 2026-02-13
 ---
 
 ## Who I am ?
@@ -34,11 +35,14 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 [DBLP](https://dblp.org/pid/382/6138.html) -- [Scholar](https://scholar.google.com/citations?user=yNAvwNEAAAAJ&hl=it) -- [Github](https://github.com/Alessandrostr95)
 
 ## Education
-- **Bachelor's Degree in Computer Science**, University of Rome Tor Vergata, 2021 -- summa cum laude
+<!-- - **Bachelor's Degree in Computer Science**, University of Rome Tor Vergata, 2021 -- summa cum laude
 - **Master's Degree in Computer Science**, University of Rome Tor Vergata, 2023 -- summa cum laude (average grade: 30/30)
-- **PhD in Data Science**, University of Rome Tor Vergata, 2023 - present
+- **PhD in Data Science**, University of Rome Tor Vergata, 2023 - present -->
+- **Bachelor's Degree in Computer Science**, University of Rome Tor Vergata -- summa cum laude
+- **Master's Degree in Computer Science**, University of Rome Tor Vergata -- summa cum laude (average grade: 30/30)
+- **PhD in Data Science**, University of Rome Tor Vergata
 
-## Publications
+## Recent Publications
 #### 2026
 - "**Detecting Large Quasi-cliques on Dynamic Networks**" -- *under review* -- Luciano Gualà, Simone Pellegrini, Luca Pepè Sciarria, Alessandro Straziota. ([full version](https://arxiv.org/abs/2606.05809))
 - "**A Tour of Locality Sensitive Filtering on the Sphere**" -- *under review* -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Emanuele Natale, Luca Pepè Sciarria, Alessandro Straziota. ([full version](https://arxiv.org/abs/2604.24323))
@@ -64,7 +68,9 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 
 ## Teaching
 - **2021 - present**: Tutor for Data Structures and Algorithms course at University of Rome Tor Vergata.
-- **Winter 2024**: four lectures on Advanced Data Structures course at University of Rome Tor Vergata.
+<!-- - **Winter 2024**: four lectures on Advanced Data Structures course at University of Rome Tor Vergata. -->
+- **Winter 2024**: lecturer on Advanced Data Structures course at University of Rome Tor Vergata.
+- **Winter 2025**: lecturer on Beyond Worst Case Analysis course at University of Rome Tor Vergata.
 
 ## Contact
 You can reach me at my email [alessandro.straziota@uniroma2.it](mailto:alessandro.straziota@uniroma2.it), or at my personal email address [alessandrostr95@gmail.com](mailto:alessandrostr95@gmail.com).
